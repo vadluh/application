@@ -1,0 +1,13 @@
+{
+    "name": "root/html",
+    "type": "project",
+    "require": {
+        "phpunit/phpunit": "^10.4"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Vadym Luhovoi"
+        }
+    ]
+}
